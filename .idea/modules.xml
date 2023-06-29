@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Constructor_challenge/Car/Car.iml" filepath="$PROJECT_DIR$/Constructor_challenge/Car/Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor_challenge/ConstructorChallenge/ConstructorChallenge.iml" filepath="$PROJECT_DIR$/Constructor_challenge/ConstructorChallenge/ConstructorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor_challenge/Doubt clearing oops1/Doubt clearing oops1.iml" filepath="$PROJECT_DIR$/Constructor_challenge/Doubt clearing oops1/Doubt clearing oops1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor_challenge/Inheritence/Inheritence.iml" filepath="$PROJECT_DIR$/Constructor_challenge/Inheritence/Inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/self_study.iml" filepath="$PROJECT_DIR$/.idea/self_study.iml" />
+    </modules>
+  </component>
+</project>
