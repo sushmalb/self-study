@@ -1,0 +1,45 @@
+POJO - Plain old Java Object
+has only instance fields
+Used to house data and pass data between functional classes
+many databases use this
+It usually has few methods other than getters / setters
+Also calles bean / javabean / Entities
+DTO - Data Transfer Object
+
+POJO cannot extend another class ie it cannot be a child class
+Cannot implement any interfaces
+No outside annotations eg:override
+Simple class with no extra stuff
+
+
+Overridden Method
+==================
+special method in java , that other classes can implement, if they use a specified method signature.
+
+--------------------------------------------------------------------------------------------------------
+RECORDS
+=========
+was introduced in JDK 16
+purpose is to remove boilerplate code of POJO but to be more restrictive
+Java calls them "plain data carriers"
+Its a special class that contains data thats not meant be altered(immutable).
+Contains the fundamental methods like constructor and getters (does not have setters).
+syntax
+-------
+public record SudentRecord() {
+
+}
+
+record header
+==============
+public record StudentRecord(String id, String name, String dob, String classList) {
+                            ----------------------------------------------------
+}
+consists of record components , a comma delimited list of components
+Afield with the same type as the record component
+The field is declared private and final
+it generates an accessor method(like getter but no get  prefix)
+eg: not getid but just id
+The members in a record are static
+
+

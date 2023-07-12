@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllAboutStrings/AllAboutStrings.iml" filepath="$PROJECT_DIR$/AllAboutStrings/AllAboutStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructor_challenge/Car/Car.iml" filepath="$PROJECT_DIR$/Constructor_challenge/Car/Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructor_challenge/ConstructorChallenge/ConstructorChallenge.iml" filepath="$PROJECT_DIR$/Constructor_challenge/ConstructorChallenge/ConstructorChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructor_challenge/Doubt clearing oops1/Doubt clearing oops1.iml" filepath="$PROJECT_DIR$/Constructor_challenge/Doubt clearing oops1/Doubt clearing oops1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructor_challenge/Inheritence/Inheritence.iml" filepath="$PROJECT_DIR$/Constructor_challenge/Inheritence/Inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollections/JavaCollections.iml" filepath="$PROJECT_DIR$/JavaCollections/JavaCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExp/LambdaExp.iml" filepath="$PROJECT_DIR$/LambdaExp/LambdaExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POJO/POJO.iml" filepath="$PROJECT_DIR$/POJO/POJO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeProjects/PracticcProjects.iml" filepath="$PROJECT_DIR$/PracticeProjects/PracticcProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticVsInstance/StaticVariables.iml" filepath="$PROJECT_DIR$/StaticVsInstance/StaticVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnderstandingInheritence/UnderstandingInheritence.iml" filepath="$PROJECT_DIR$/UnderstandingInheritence/UnderstandingInheritence.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/self_study.iml" filepath="$PROJECT_DIR$/.idea/self_study.iml" />
     </modules>
   </component>

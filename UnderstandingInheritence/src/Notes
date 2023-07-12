@@ -1,0 +1,53 @@
+Inheritence
+============
+Form of code reuse
+Organize classes in a  parent child hierarchy.
+Child inherits fields and methods from parent.
+A child can have one parent class but can inherit from parents parent and so on.
+"extends" keyword specifies the superclass we want to extend
+A class can only inherit one superclass.
+Multiple inheritence isnt allowed
+Super() is used to call a constructor of a parent class, directly from the sub class constructor.
+It has to be the first statement of the constructor
+this() and super() cannot be called from the same constructor.
+
+
+Method Overriding
+=================
+Overriding a method is when you create a method on a subclass, which has the same signature as a
+method on a super class.
+    it can implement a completely different behavior
+    it can call parent class method (default behavior)
+    call parent class method and include other code
+
+java.lang.objects
+==================
+    By default every class extends a special java class called Object (in the java.lang.package).
+    Every class has Object as a superclass.All objects, including arrays , implement methods of this array.
+
+Difference between this and super
+=================================
+super - used to call the parents class members.Commonly used with method overriding.
+
+this - used to call the current class members.Required when we have the parameter with the same name as an
+instance variable
+
+this() - used to call a constructor from another overloaded constructor in the same class.needs to be the first
+statement in the constructor.Used in constructor chaining.
+
+super() - also needs to be first statement.
+A constructor can have one of these and not both
+
+Difference between method overriding and method overloading
+===========================================================
+Method overloading means providing two or more separate methods , in a class, with the same name , but
+different parameters.Reduces duplicated code. we can overload static or instance methods.
+Also called compile-time polymorphism. methods can also be overloaded with sub class.Return type neend not be
+same.
+
+Method overriding means defining a method in a child class, that already exists in the parent class, with the
+same signature. Also called runtime polymorphism . Recommended to put @override. Cant override static methods.
+Return type should match.Cant have lower access modifier. Only happens in child classes.Constructors and private
+methods cant be overridden.final also cannot be overridden
+
+

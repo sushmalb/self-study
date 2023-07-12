@@ -1,0 +1,35 @@
+Collections is an object that represents a group of objects.
+Collection objects include arrays, lists, sets, queues , tables ,dictionaries and maps
+All collection objects implement the collection interface , with the exception of maps.
+
+The collection interface is at the heart of the collection hierarchy.Its the abstract representation of
+the behaviour you would need, for managing a group of objects.
+
+List :
+=======
+List is an ordered collection
+eg: ArrayList, Linklist
+
+Queue
+======
+designed for holding elements prior to processing. ie processing order matters.
+eg: Queue(FIFO) and Stack(LIFO) Deque( Supports both)
+
+Set
+====
+Contains no duplicate element. It is ordered collection
+eg: HashSet TreeSet and LinkedHashSet
+
+Map
+====
+Collection that stores key value pair.
+Keys are a set , values are a separate collection.
+Key keeps reference to the value.
+Keys need to be unique whereas values need not be.
+
+Polymorphic algorithm
+=======================
+piece if reusable functionality
+
+
+

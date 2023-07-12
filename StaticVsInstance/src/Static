@@ -1,0 +1,28 @@
+static variables do not need an instance.
+can be directly called with the class name.
+Share the einstances and hence all will be updated with the last instance
+
+Instance Variables
+===================
+They dont use the static keyword
+belong to a specific instance of a class
+Each instance has a copy
+represents a state of every instance of a class
+
+Static Methods
+===============
+declared using static
+cant access instance methods/variables directly
+Usually used for ops that dont require any data from an instance(from this)
+cant use "this" keyword in this method
+
+Instance Methods
+================
+belongs to an instance of an class
+need to instantiate class first using "new " keyword
+can access instance methods/variables directly
+can access static methods/variable directly
+
+should you use static or instance?
+===================================
+does it use fields ? if yes instance , if not static

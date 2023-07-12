@@ -1,0 +1,5 @@
+A lambda expression can be thought of as implicit code for an anonymous class, using a
+special kind of interface, as the mechanics to do this.
+A functional interface is an interface that has one, and only one, abstract method and any class that implements
+that interface has to implement their own implementation of the  methods provided by that interface.
+
