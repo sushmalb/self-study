@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lombok">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/lombok.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Classes Challenge/src" />
+      <root url="file://$PROJECT_DIR$/../InClass/DSA/src" />
+      <root url="file://$PROJECT_DIR$/../InClass/Polymorphism/src" />
+      <root url="file://$PROJECT_DIR$/../InClass/assignments/Inventory management/src" />
+      <root url="file://$PROJECT_DIR$/../SumCalculator/src" />
+      <root url="file://$PROJECT_DIR$/../abs/src" />
+      <root url="file://$PROJECT_DIR$/AllAboutStrings/src" />
+      <root url="file://$PROJECT_DIR$/Constructor" />
+      <root url="file://$PROJECT_DIR$/ConstructorChallenge/src" />
+      <root url="file://$PROJECT_DIR$/JavaCollections/src" />
+      <root url="file://$PROJECT_DIR$/LambdaExp/src" />
+      <root url="file://$PROJECT_DIR$/POJO/src" />
+      <root url="file://$PROJECT_DIR$/PracticeProjects/src" />
+      <root url="file://$PROJECT_DIR$/StaticVsInstance/src" />
+      <root url="file://$PROJECT_DIR$/UnderstandingInheritence/src" />
+      <root url="file://$PROJECT_DIR$/encapsulation" />
+    </SOURCES>
+  </library>
+</component>

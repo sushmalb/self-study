@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaCollections/JavaCollections.iml" filepath="$PROJECT_DIR$/JavaCollections/JavaCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExp/LambdaExp.iml" filepath="$PROJECT_DIR$/LambdaExp/LambdaExp.iml" />
       <module fileurl="file://$PROJECT_DIR$/POJO/POJO.iml" filepath="$PROJECT_DIR$/POJO/POJO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeProjects/PracticcProjects.iml" filepath="$PROJECT_DIR$/PracticeProjects/PracticcProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticVsInstance/StaticVariables.iml" filepath="$PROJECT_DIR$/StaticVsInstance/StaticVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnderstandingInheritence/UnderstandingInheritence.iml" filepath="$PROJECT_DIR$/UnderstandingInheritence/UnderstandingInheritence.iml" />
