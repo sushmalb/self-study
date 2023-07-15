@@ -1,0 +1,25 @@
+Polymorphism lets us write code to call a method, but at runtime, this method's behavior
+can be different, for different objects.
+This means the behavior that occurs, while the program is executing, depends on the
+runtime type of the object.
+And the runtime type, might be different from the declared type in the code.
+The declared type has to have some kind of relationship to the runtime type, and
+inheritance is one way to establish this relationship.
+
+Polymorphism in action
+=======================
+It's the ability to execute different behavior, for different types, which are determined at
+runtime.
+And yet we did it with just two statements, in the main method, as shown here.
+Movie movie = Movie.getMovie(type, title);
+movie.watchMovie();
+Polymorphism enables you to write generic code, based on the base class, or a parent
+class.
+And this code, in the main method, is extendable, meaning it doesn't have to change, as
+new subclasses become available.
+This code can handle any instances that are a Movie, or a subclass of movie, that are
+returned from the factory method.
+
+The Factory Method is a creational design pattern that provides an interface for creating objects, but allows
+subclasses to decide which class to instantiate. It promotes loose coupling and abstraction by delegating the
+object creation to subclasses rather than relying on direct instantiation.

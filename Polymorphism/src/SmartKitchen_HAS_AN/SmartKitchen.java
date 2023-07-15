@@ -1,4 +1,4 @@
-package SmartKitchen;
+package SmartKitchen_HAS_AN;
 
 public class SmartKitchen {
 private CoffeeMaker brewMaster;
